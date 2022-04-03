@@ -7,25 +7,6 @@ html, body {
   color: #eee;
 }
 
-body {
-  /* 
-  background: #1b1e23;
-  display: flex;
-  display: -webkit-box;
-  -webkit-box-pack: center;
-          justify-content: center;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-          flex-direction: column;
-  -webkit-box-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-          align-items: center;
-  */
-  background: transparent; 
-  font-size: 2vw;
-  font-family: 'Arial';
-}
 #schedule-wrapper {
 	width:50vw;
 	height: 100vh;

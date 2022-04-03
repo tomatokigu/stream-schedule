@@ -8,15 +8,15 @@
 	display: inline-block;
 }
 .clock {
-  height: 40vw;
-  width: 40vw;
-  border-radius: 20vw;
+  height: 30vw;
+  width: 30vw;
+  border-radius: 15vw;
   position: relative;
 }
 .clock__second, .clock__minute, .clock__hour, .clock__indicator {
   position: absolute;
-  left: calc(25vw - 0.25vw);
-  top: calc(10vw);
+  left: calc(10vw - 0.25vw);
+  top: calc(13vw);
   width: 0.5vw;
   /*
   left: calc(50% - 1px);
@@ -29,7 +29,7 @@
   border-radius: 1px;
 }
 .clock__second {
-  height: 19vw;
+  height: 14vw;
   margin-top: 1vw;
   background: rgb(135,84,161);
   -webkit-animation: time 60s infinite steps(60);
@@ -37,27 +37,27 @@
   z-index: 3;
 }
 .clock__minute {
-  height: 17vw;
+  height: 12vw;
   margin-top: 3vw;
   opacity: 0.75;
   -webkit-animation: time 3600s linear infinite;
           animation: time 3600s linear infinite;
 }
 .clock__hour {
-  height: 13vw;
+  height: 8vw;
   margin-top: 7vw;
   width: 1vw;
   -webkit-animation: time 43200s linear infinite;
           animation: time 43200s linear infinite;
 }
 .clock__indicator {
-  height: calc(20vw - 0.5vw);
+  height: calc(15vw - 0.5vw);
   border-top: 0.5vw solid rgb(135,84,161);
   background: none;
 }
 .clock__indicator:nth-of-type(5n) {
   opacity: 1;
-  height: calc(20vw - 0.75vw);
+  height: calc(15vw - 0.75vw);
   /*
   border-top: 0.75em solid #f4eed7;
   */
@@ -70,8 +70,8 @@
   border-radius: 1vw;
   position: absolute;
   z-index: 4;
-  top: calc(30vw - 1vw);;
-  left: calc(25vw - 1vw);
+  top: calc(28vw - 1vw);;
+  left: calc(10vw - 1vw);
 }
 
 section:nth-of-type(1) {

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+<head>
+	<meta charset="UTF-8">
+	<title>Schedule</title>
+	<link rel="stylesheet" href="schedule.css">
+	<style>
+		body {
+		  background-color: #f00;
+		  background-image: url(background.png); 
+		  font-size: 2vw;
+		  font-family: 'Arial';
+		}
+	</style>
+</head>
+<body>
+	<div id="schedule-wrapper">
+		<h1>Schedule<small>all times in UTC</small></h1>
+	</div>
+	<template id="schedule-item">
+		<div class="schedule-item">
+			<p class="date"></p>
+			<p></p>
+		</div>
+	</template>
+
+	<script src="schedule.js"></script>
+	<script>
+		renderSchedule();
+	</script>
+</body>
+</html>

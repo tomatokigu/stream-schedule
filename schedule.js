@@ -1,20 +1,20 @@
 function renderSchedule() {
-    var schedule = document.querySelector("#schedule-wrapper");
-    var template = document.querySelector('#schedule-item');
+	var schedule = document.querySelector("#schedule-wrapper");
+	var template = document.querySelector('#schedule-item');
 	var item, items = readSchedule();
-    console.log(items);
+	console.log(items);
 
 	items.forEach(function(item) {
-	    console.log(item);
-	    var node = template.content.cloneNode(true);
-	    var p = node.querySelectorAll("p");
+		console.log(item);
+		var node = template.content.cloneNode(true);
+		var p = node.querySelectorAll("p");
 		
 		p[0].textContent = formatDate(item.date);
 		time = formatTime(item.date);
 		p[0].appendChild(time);
-	    p[1].textContent = item.title;
+		p[1].textContent = item.title;
 
-	    schedule.appendChild(node);
+		schedule.appendChild(node);
 	});
 }
 

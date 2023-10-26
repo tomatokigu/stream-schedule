@@ -2,26 +2,26 @@
 	{
 		"date": "2023-10-26T20:00",
 		"title": "Test stream: Suika Game",
-		"platform": "youtube"
+		"service": "youtube"
 	},
 	{
 		"date": "2023-10-28T20:00",
 		"title": "The Quarry",
-		"platform": "twitch"
+		"service": "twitch"
 	},
 	{
 		"date": "2023-10-30T21:00",
 		"title": "The Quarry (maybe)",
-		"platform": "twitch"
+		"service": "twitch"
 	},
 	{
 		"date": "2023-11-01T21:00",
 		"title": "Phasmo with friends",
-		"platform": "twitch"
+		"service": "twitch"
 	},
 	{
 		"date": "2023-11-04T21:00",
 		"title": "Forza Motorsport",
-		"platform": "twitch"
+		"service": "twitch"
 	}
 ]

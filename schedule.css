@@ -39,6 +39,10 @@ h1 small {
 .schedule-item .date time {
 	float: right;
 }
+.schedule-item .date i {
+	float: right;
+	margin-left: 0.5ch;
+}
 .schedule-item p {
 	margin: 0;
 	padding: 0;

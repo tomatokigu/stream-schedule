@@ -50,3 +50,10 @@ h1 small {
 	margin: 0;
 	padding: 0;
 }
+.fab.fa-discord   { color: #7289DA; }
+.fab.fa-twitch    { color: #9146FF; }
+.fab.fa-twitter   { color: #1DA1F2; }
+.fab.fa-youtube   { color: #FF0000; }
+.fab.fa-patreon   { color: #FF424D; }
+.fab.fa-tumblr    { color: #35465c; }
+.fab.fa-instagram { color: #f00a75; }

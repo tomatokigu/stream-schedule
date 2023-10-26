@@ -10,6 +10,8 @@ function renderSchedule() {
 		var p = node.querySelectorAll("p");
 		
 		p[0].textContent = formatDate(item.date);
+		service = formatService(item.service);
+		p[0].appendChild(service);
 		time = formatTime(item.date);
 		p[0].appendChild(time);
 		p[1].textContent = item.title;
@@ -48,6 +50,15 @@ function formatTime(iso8601) {
 	};
 	var el = document.createElement('time');
 	el.textContent = date.toLocaleTimeString("en-US", opts);
+
+	return el;
+}
+
+function formatService(service) {
+	var el = document.createElement('i');
+	el.classList.add('fab');
+	el.classList.add('fa-fw');
+	el.classList.add('fa-' + service);
 
 	return el;
 }

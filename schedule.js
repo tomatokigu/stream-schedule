@@ -14,7 +14,7 @@ function renderSchedule() {
 		p[0].appendChild(service);
 		time = formatTime(item.date);
 		p[0].appendChild(time);
-		p[1].textContent = item.title;
+		p[1].innerHTML = item.title;
 
 		schedule.appendChild(node);
 	});

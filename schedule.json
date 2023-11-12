@@ -1,6 +1,6 @@
 [
 	{
-		"date": "2023-11-11T21:00",
+		"date": "2023-11-12T21:00",
 		"title": "The DIG",
 		"service": "twitch"
 	},
@@ -11,6 +11,11 @@
 	},
 	{
 		"date": "2023-11-15T21:00",
+		"title": "<small>Possible stream:</small> TBD",
+		"service": "twitch"
+	},
+	{
+		"date": "2023-11-17T21:00",
 		"title": "<small>Possible stream:</small> TBD",
 		"service": "twitch"
 	},

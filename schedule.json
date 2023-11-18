@@ -1,12 +1,7 @@
 [
 	{
-		"date": "2023-11-17T21:00",
-		"title": "Day of the Tentacle",
-		"service": "twitch"
-	},
-	{
 		"date": "2023-11-18T21:00",
-		"title": "TBD",
+		"title": "Day of the Tentacle",
 		"service": "twitch"
 	},
 	{
@@ -22,6 +17,11 @@
 	{
 		"date": "2023-11-25T21:00",
 		"title": "TBD",
+		"service": "twitch"
+	},
+	{
+		"date": "2023-11-27T21:00",
+		"title": "<small>Possible stream:</small> TBD",
 		"service": "twitch"
 	}
 ]

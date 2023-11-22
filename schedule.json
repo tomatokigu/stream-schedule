@@ -1,12 +1,7 @@
 [
 	{
-		"date": "2023-11-21T21:00",
-		"title": "BONUS STREAM!  Forza Motorsport",
-		"service": "twitch"
-	},
-	{
 		"date": "2023-11-22T21:00",
-		"title": "<small>Possible stream:</small> TBD",
+		"title": "Whispers of a Machine",
 		"service": "twitch"
 	},
 	{
@@ -21,6 +16,11 @@
 	},
 	{
 		"date": "2023-11-29T21:00",
+		"title": "TBD",
+		"service": "twitch"
+	},
+	{
+		"date": "2023-12-02T21:00",
 		"title": "TBD",
 		"service": "twitch"
 	}

@@ -1,17 +1,12 @@
 [
 	{
-		"date": "2023-11-23T21:00",
-		"title": "<small>Bonus stream!</small> Whispers of a Machine",
-		"service": "twitch"
-	},
-	{
 		"date": "2023-11-25T21:00",
-		"title": "TBD",
+		"title": "Thimbleweed Park",
 		"service": "twitch"
 	},
 	{
 		"date": "2023-11-27T21:00",
-		"title": "<small>Possible stream:</small> TBD",
+		"title": "Thimbleweed Park <small>cont.</small>",
 		"service": "twitch"
 	},
 	{
@@ -21,6 +16,11 @@
 	},
 	{
 		"date": "2023-12-02T21:00",
+		"title": "TBD",
+		"service": "twitch"
+	},
+	{
+		"date": "2023-12-04T21:00",
 		"title": "TBD",
 		"service": "twitch"
 	}

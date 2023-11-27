@@ -1,12 +1,7 @@
 [
 	{
-		"date": "2023-11-25T21:00",
-		"title": "Thimbleweed Park",
-		"service": "twitch"
-	},
-	{
 		"date": "2023-11-27T21:00",
-		"title": "Thimbleweed Park <small>cont.</small>",
+		"title": "Thimbleweed Park <small>(cont.)</small>",
 		"service": "twitch"
 	},
 	{
@@ -21,6 +16,11 @@
 	},
 	{
 		"date": "2023-12-04T21:00",
+		"title": "TBD",
+		"service": "twitch"
+	},
+	{
+		"date": "2023-12-06T21:00",
 		"title": "TBD",
 		"service": "twitch"
 	}

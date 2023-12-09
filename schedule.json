@@ -1,12 +1,7 @@
 [
 	{
-		"date": "2023-12-06T21:00",
-		"title": "Forza Motorsport",
-		"service": "twitch"
-	},
-	{
 		"date": "2023-12-09T21:00",
-		"title": "TBD",
+		"title": "Forza Motorsport",
 		"service": "twitch"
 	},
 	{
@@ -21,6 +16,11 @@
 	},
 	{
 		"date": "2023-12-16T21:00",
+		"title": "TBD",
+		"service": "twitch"
+	},
+	{
+		"date": "2023-12-18T21:00",
 		"title": "TBD",
 		"service": "twitch"
 	}

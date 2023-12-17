@@ -1,12 +1,7 @@
 [
 	{
-		"date": "2023-12-16T21:00",
-		"title": "Euro Truck Simulator 2<br><small>Return of the racing wheel</small>",
-		"service": "twitch"
-	},
-	{
 		"date": "2023-12-18T21:00",
-		"title": "TBD",
+		"title": "American Truck Simulator",
 		"service": "twitch"
 	},
 	{
@@ -16,12 +11,17 @@
 	},
 	{
 		"date": "2023-12-23T21:00",
-		"title": "TBD",
+		"title": "TBD <small>(No Christmas, guaranteed)</small>",
 		"service": "twitch"
 	},
 	{
 		"date": "2023-12-25T21:00",
-		"title": "TBD <small>(No Christmas guaranteed)</small>",
+		"title": "TBD <small>(No Christmas, guaranteed)</small>",
+		"service": "twitch"
+	},
+	{
+		"date": "2023-12-27T21:00",
+		"title": "TBD <small>(No Christmas, guaranteed)</small>",
 		"service": "twitch"
 	}
 ]

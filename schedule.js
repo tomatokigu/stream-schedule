@@ -10,8 +10,10 @@ function renderSchedule() {
 		var p = node.querySelectorAll("p");
 		
 		p[0].textContent = formatDate(item.date);
-		service = formatService(item.service);
-		p[0].appendChild(service);
+		item.service(function(service) {
+			service = formatService(service);
+			p[0].appendChild(service);
+		});
 		time = formatTime(item.date);
 		p[0].appendChild(time);
 		p[1].innerHTML = item.title;

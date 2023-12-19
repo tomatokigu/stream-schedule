@@ -20,8 +20,8 @@
 		"service": ["twitch"]
 	},
 	{
-		"date": "2023-12-23T21:00",
+		"date": "2023-12-30T21:00",
 		"title": "TBD",
-		"service": ["twitch"]
+		"service": ["twitch", "youtube"]
 	}
 ]

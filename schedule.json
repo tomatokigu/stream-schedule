@@ -1,12 +1,7 @@
 [
 	{
-		"date": "2023-12-18T21:00",
-		"title": "American Truck Simulator",
-		"service": "twitch"
-	},
-	{
 		"date": "2023-12-20T21:00",
-		"title": "TBD",
+		"title": "American Truck Simulator",
 		"service": "twitch"
 	},
 	{
@@ -22,6 +17,11 @@
 	{
 		"date": "2023-12-27T21:00",
 		"title": "TBD <small>(No Christmas, guaranteed)</small>",
+		"service": "twitch"
+	},
+	{
+		"date": "2023-12-23T21:00",
+		"title": "TBD",
 		"service": "twitch"
 	}
 ]

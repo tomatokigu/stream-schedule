@@ -10,7 +10,7 @@ function renderSchedule() {
 		var p = node.querySelectorAll("p");
 		
 		p[0].textContent = formatDate(item.date);
-		item.service(function(service) {
+		item.service.forEach(function(service) {
 			service = formatService(service);
 			p[0].appendChild(service);
 		});

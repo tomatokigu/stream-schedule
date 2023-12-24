@@ -1,12 +1,7 @@
 [
 	{
-		"date": "2023-12-23T21:00",
-		"title": "Forza Motorsport<br><small>Learning to drive with a wheel and pedals!</small>",
-		"services": ["twitch"]
-	},
-	{
-		"date": "2023-12-25T21:00",
-		"title": "TBD <small>(No Christmas, guaranteed)</small>",
+		"date": "2023-12-25T19:00",
+		"title": "American Truck Simulator<br><small>(Christmas Free Zone, all welcome)</small>",
 		"services": ["twitch"]
 	},
 	{
@@ -16,12 +11,17 @@
 	},
 	{
 		"date": "2023-12-30T21:00",
-		"title": "TBD",
+		"title": "Forza Motorsport<br><small>Learning to drive with a wheel and pedals!</small>",
 		"services": ["twitch"]
 	},
 	{
 		"date": "2024-01-01T21:00",
 		"title": "Comfy hangover stream <small>(Art maybe)</small>",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-01-03T21:00",
+		"title": "TBD",
 		"services": ["twitch", "youtube"]
 	}
 ]

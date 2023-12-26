@@ -1,12 +1,7 @@
 [
 	{
-		"date": "2023-12-25T19:00",
-		"title": "American Truck Simulator<br><small>(Christmas Free Zone, all welcome)</small>",
-		"services": ["twitch"]
-	},
-	{
 		"date": "2023-12-27T21:00",
-		"title": "TBD <small>(No Christmas, guaranteed)</small>",
+		"title": "American Truck Simulator",
 		"services": ["twitch"]
 	},
 	{
@@ -16,11 +11,16 @@
 	},
 	{
 		"date": "2024-01-01T21:00",
-		"title": "Comfy hangover stream <small>(Art maybe)</small>",
+		"title": "Art stream, drawing emotes<br><small>Comfy hangover stream </small>",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2024-01-03T21:00",
+		"title": "TBD",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-01-06T19:00",
 		"title": "TBD",
 		"services": ["twitch", "youtube"]
 	}

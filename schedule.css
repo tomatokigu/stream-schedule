@@ -31,7 +31,7 @@ h1 small {
 	padding: 1vw 1vw;
 	margin: 1vw 1vw 1vw 5vw;
 	width: calc(75% - 4vw);
-	background-color: rgba(51,51,51, 0.6);
+	background-color: rgba(51,51,51, 0.8);
 }
 .schedule-item .date {
 	text-transform: uppercase;

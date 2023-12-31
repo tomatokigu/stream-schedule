@@ -1,10 +1,14 @@
-function renderSchedule() {
+function renderSchedule(skipFirst = false) {
 	var schedule = document.querySelector("#schedule-wrapper");
 	var template = document.querySelector('#schedule-item');
 	var item, items = readSchedule();
 	console.log(items);
 
 	items.forEach(function(item) {
+		if (skipFirst) {
+			skipFirst = false;
+			continue;
+		}
 		console.log(item);
 		var node = template.content.cloneNode(true);
 		var p = node.querySelectorAll("p");

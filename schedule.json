@@ -1,10 +1,5 @@
 [
 	{
-		"date": "2023-12-30T21:00",
-		"title": "Forza Motorsport<br><small>Learning to drive with a wheel and pedals!</small>",
-		"services": ["twitch"]
-	},
-	{
 		"date": "2024-01-01T21:00",
 		"title": "Art stream, drawing emotes<br><small>Comfy hangover friendly stream </small>",
 		"services": ["twitch", "youtube"]
@@ -23,5 +18,15 @@
 		"date": "2024-01-08T21:00",
 		"title": "TBD",
 		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-01-10T21:00",
+		"title": "TBD",
+		"services": ["twitch", youtube]
+	},
+	{
+		"date": "2024-01-13T21:00",
+		"title": "TBD",
+		"services": ["twitch", youtube]
 	}
 ]

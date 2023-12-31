@@ -7,7 +7,7 @@ function renderSchedule(skipFirst = false) {
 	items.forEach(function(item) {
 		if (skipFirst) {
 			skipFirst = false;
-			continue;
+			return;
 		}
 		console.log(item);
 		var node = template.content.cloneNode(true);

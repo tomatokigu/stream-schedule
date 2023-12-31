@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+<head>
+	<meta charset="UTF-8">
+	<title>Schedule</title>
+	<link rel="stylesheet" href="schedule.css">
+	<style>
+		body {
+		  font-size: 2vw;
+		  font-family: 'Arial';
+		}
+	</style>
+</head>
+<body>
+	<div id="schedule-wrapper">
+	</div>
+	<template id="schedule-item">
+		<div class="schedule-item">
+			<p class="date"></p>
+			<p></p>
+		</div>
+	</template>
+
+	<script src="schedule.js"></script>
+	<script>
+		renderSchedule(true);
+	</script>
+</body>
+</html>

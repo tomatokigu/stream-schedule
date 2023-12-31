@@ -22,11 +22,11 @@
 	{
 		"date": "2024-01-10T21:00",
 		"title": "TBD",
-		"services": ["twitch", youtube]
+		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2024-01-13T21:00",
 		"title": "TBD",
-		"services": ["twitch", youtube]
+		"services": ["twitch", "youtube"]
 	}
 ]

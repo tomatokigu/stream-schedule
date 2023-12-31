@@ -4,7 +4,7 @@ function renderSchedule(skipFirst = false) {
 	var item, items = readSchedule();
 	console.log(items);
 
-	items.forEach(function(item) {
+	items.slice(0,5).forEach(function(item) {
 		if (skipFirst) {
 			skipFirst = false;
 			return;

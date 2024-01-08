@@ -1,37 +1,47 @@
 [
 	{
-		"date": "2024-01-06T21:00",
-		"title": "American Truck Simulator",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-01-08T21:00",
-		"title": "TBD",
+		"title": "Art stream",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2024-01-10T21:00",
-		"title": "TBD",
+		"title": "Variety Wednesday",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2024-01-13T21:00",
-		"title": "TBD",
+		"title": "American Truck Simulator",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2024-01-15T21:00",
-		"title": "TBD",
+		"title": "Art stream",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2024-01-17T21:00",
-		"title": "TBD",
+		"title": "Variety Wednesday",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2024-01-20T21:00",
-		"title": "TBD",
+		"title": "American Truck Simulator",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-01-22T21:00",
+		"title": "Art stream",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-01-24T21:00",
+		"title": "Variety Wednesday",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-01-27T21:00",
+		"title": "American Truck Simulator",
 		"services": ["twitch", "youtube"]
 	}
 ]

@@ -1,12 +1,7 @@
 [
 	{
-		"date": "2024-01-08T21:00",
-		"title": "Art stream",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-01-10T21:00",
-		"title": "Variety Wednesday",
+		"title": "Sam & Max: Hit the Road",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -21,7 +16,7 @@
 	},
 	{
 		"date": "2024-01-17T21:00",
-		"title": "Variety Wednesday",
+		"title": "Sam & Max: Hit the Road",
 		"services": ["twitch", "youtube"]
 	},
 	{

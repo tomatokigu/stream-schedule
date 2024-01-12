@@ -1,10 +1,5 @@
 [
 	{
-		"date": "2024-01-10T21:00",
-		"title": "Sam & Max: Hit the Road",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-01-13T21:00",
 		"title": "American Truck Simulator",
 		"services": ["twitch", "youtube"]
@@ -26,7 +21,7 @@
 	},
 	{
 		"date": "2024-01-22T21:00",
-		"title": "Art stream",
+		"title": "Art Monday",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -37,6 +32,16 @@
 	{
 		"date": "2024-01-27T21:00",
 		"title": "American Truck Simulator",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-01-29T21:00",
+		"title": "Art Monday",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-01-31T21:00",
+		"title": "Variety Wednesday",
 		"services": ["twitch", "youtube"]
 	}
 ]

@@ -1,10 +1,5 @@
 [
 	{
-		"date": "2024-01-15T21:00",
-		"title": "Euro Truck Simulator 2",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-01-17T21:00",
 		"title": "Sam & Max: Hit the Road",
 		"services": ["twitch", "youtube"]
@@ -21,7 +16,7 @@
 	},
 	{
 		"date": "2024-01-24T21:00",
-		"title": "Variety Wednesday",
+		"title": "Sam & Max",
 		"services": ["twitch", "youtube"]
 	},
 	{

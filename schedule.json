@@ -1,11 +1,21 @@
 [
 	{
-		"date": "2024-01-22T21:00",
-		"title": "Too tired to think<br><small>we'll figure something out</small>",
+		"date": "2024-01-24T21:00",
+		"title": "Euro Truck Simulator 2",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2024-01-24T21:00",
+		"date": "2024-01-27T21:00",
+		"title": "American Truck Simulator",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-01-29T21:00",
+		"title": "Art Monday",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-01-31T21:00",
 		"title": "Sam & Max",
 		"services": ["twitch", "youtube"]
 	},
@@ -21,7 +31,22 @@
 	},
 	{
 		"date": "2024-01-31T21:00",
-		"title": "Variety Wednesday",
+		"title": "Sam & Max",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-02-03T21:00",
+		"title": "American Truck Simulator",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-02-05T21:00",
+		"title": "Art Monday",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-02-07T21:00",
+		"title": "Sam & Max",
 		"services": ["twitch", "youtube"]
 	}
 ]

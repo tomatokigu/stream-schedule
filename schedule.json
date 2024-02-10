@@ -1,47 +1,32 @@
 [
 	{
-		"date": "2024-01-27T21:00",
+		"date": "2024-02-12T21:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-02-14T21:00",
+		"title": "Whatever",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-02-17T21:00",
 		"title": "American Truck Simulator",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2024-01-29T21:00",
-		"title": "Art Monday",
+		"date": "2024-02-19T21:00",
+		"title": "TBD",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2024-01-31T21:00",
-		"title": "Sam & Max",
+		"date": "2024-02-21T21:00",
+		"title": "TBD",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2024-01-27T21:00",
+		"date": "2024-02-26T21:00",
 		"title": "American Truck Simulator",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2024-01-29T21:00",
-		"title": "Art Monday",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2024-01-31T21:00",
-		"title": "Sam & Max",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2024-02-03T21:00",
-		"title": "American Truck Simulator",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2024-02-05T21:00",
-		"title": "Art Monday",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2024-02-07T21:00",
-		"title": "Sam & Max",
 		"services": ["twitch", "youtube"]
 	}
 ]

@@ -1,12 +1,7 @@
 [
 	{
-		"date": "2024-02-26T21:00",
-		"title": "Minecraft Monday",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-02-28T21:00",
-		"title": "Whatever wednesday",
+		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{

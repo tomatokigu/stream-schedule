@@ -1,15 +1,5 @@
 [
 	{
-		"date": "2024-03-27T21:00",
-		"title": "Minecraft",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2024-03-30T21:00",
-		"title": "American Truck Simulator",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-04-01T21:00",
 		"title": "Minecraft Monday",
 		"services": ["twitch", "youtube"]

@@ -1,10 +1,5 @@
 [
 	{
-		"date": "2024-04-17T20:00",
-		"title": "Night in the Woods",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-04-20T20:00",
 		"title": "Euro Truck Simulator 2",
 		"services": ["twitch", "youtube"]
@@ -16,12 +11,12 @@
 	},
 	{
 		"date": "2024-04-25T20:00",
-		"title": "Whatever wednesday",
+		"title": "Night in the Woods",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2024-04-27T20:00",
-		"title": "American Truck Simulator",
+		"title": "Euro Truck Simulator 2",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -31,7 +26,7 @@
 	},
 	{
 		"date": "2024-05-01T20:00",
-		"title": "Whatever wednesday",
+		"title": "Night in the Woods",
 		"services": ["twitch", "youtube"]
 	},
 	{

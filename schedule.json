@@ -1,12 +1,7 @@
 [
 	{
-		"date": "2024-05-27T20:00",
-		"title": "Game or something",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-05-29T20:00",
-		"title": "Night in the Woods",
+		"title": "Night in the Woods <small>The end?</small>",
 		"services": ["twitch", "youtube"]
 	},
 	{

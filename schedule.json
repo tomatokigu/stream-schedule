@@ -1,10 +1,5 @@
 [
 	{
-		"date": "2024-06-22T20:00",
-		"title": "Euro Truck Simulator 2",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-06-25T20:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
@@ -22,6 +17,96 @@
 	{
 		"date": "2024-06-29T20:00",
 		"title": "Euro Truck Simulator 2",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-02T20:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-03T20:00",
+		"title": "Story game, TBD",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-05T20:00",
+		"title": "Red Dead Redemption 2",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-06T20:00",
+		"title": "Euro Truck Simulator 2",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-09T20:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-10T20:00",
+		"title": "Story game, TBD",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-128T20:00",
+		"title": "Red Dead Redemption 2",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-13T20:00",
+		"title": "Euro Truck Simulator 2",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-16T20:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-17T20:00",
+		"title": "Story game, TBD",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-19T20:00",
+		"title": "Red Dead Redemption 2",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-20T20:00",
+		"title": "Euro Truck Simulator 2",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-23T20:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-24T20:00",
+		"title": "Story game, TBD",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-26T20:00",
+		"title": "Red Dead Redemption 2",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-27T20:00",
+		"title": "Euro Truck Simulator 2",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-30T20:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-07-31T20:00",
+		"title": "Story game, TBD",
 		"services": ["twitch", "youtube"]
 	}
 ]

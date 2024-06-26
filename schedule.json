@@ -1,10 +1,5 @@
 [
 	{
-		"date": "2024-06-25T20:00",
-		"title": "Racing practice!",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-06-26T20:00",
 		"title": "Tell Me Why, Chapter 3",
 		"services": ["twitch", "youtube"]
@@ -26,7 +21,7 @@
 	},
 	{
 		"date": "2024-07-03T20:00",
-		"title": "Story game, TBD",
+		"title": "GT3 Racing Practice",
 		"services": ["twitch", "youtube"]
 	},
 	{

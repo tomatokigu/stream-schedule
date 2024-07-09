@@ -1,10 +1,5 @@
 [
 	{
-		"date": "2024-07-08T20:00",
-		"title": "BONUS STREAM!",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-07-09T20:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]

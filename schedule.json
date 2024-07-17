@@ -1,15 +1,5 @@
 [
 	{
-		"date": "2024-07-13T20:00",
-		"title": "Euro Truck Simulator 2",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2024-07-16T20:00",
-		"title": "Racing practise!",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-07-17T20:00",
 		"title": "Sam & Max: Save the World <small>Episode 2</small>",
 		"services": ["twitch", "youtube"]
@@ -26,12 +16,12 @@
 	},
 	{
 		"date": "2024-07-23T20:00",
-		"title": "Minecraft",
+		"title": "Racing practice",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2024-07-24T20:00",
-		"title": "Sam & Max: Save the World | Episode 3",
+		"title": "Sam & Max: Save the World <small>Episode 3</small>",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -51,7 +41,7 @@
 	},
 	{
 		"date": "2024-07-31T20:00",
-		"title": "Sam & Max: Save the World | Episode 4",
+		"title": "Sam & Max: Save the World <small>Episode 4</small>",
 		"services": ["twitch", "youtube"]
 	}
 ]

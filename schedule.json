@@ -1,10 +1,5 @@
 [
 	{
-		"date": "2024-08-30T20:00",
-		"title": "Mahjong Soul",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-08-31T20:00",
 		"title": "American Truck Simulator",
 		"services": ["twitch", "youtube"]
@@ -170,12 +165,12 @@
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2024-10-29T20:00",
+		"date": "2024-10-29T21:00",
 		"title": "Racing Practice",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2024-10-30T20:00",
+		"date": "2024-10-30T21:00",
 		"title": "Sam & Max: The Devil's Playhouse <small>Episode 5</small>",
 		"services": ["twitch", "youtube"]
 	}

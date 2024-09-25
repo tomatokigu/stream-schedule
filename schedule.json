@@ -1,10 +1,5 @@
 [
 	{
-		"date": "2024-09-24T20:00",
-		"title": "Euro Truck Simulator 2",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-09-25T20:00",
 		"title": "Sam & Max: Beyond Time and Space <small>Episode 5</small>",
 		"services": ["twitch", "youtube"]
@@ -16,7 +11,7 @@
 	},
 	{
 		"date": "2024-09-28T20:00",
-		"title": "Euro Truck Simulator 2",
+		"title": "American Truck Simulator",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -36,7 +31,7 @@
 	},
 	{
 		"date": "2024-10-05T20:00",
-		"title": "Euro Truck Simulator 2",
+		"title": "American Truck Simulator",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -56,7 +51,7 @@
 	},
 	{
 		"date": "2024-10-12T20:00",
-		"title": "Euro Truck Simulator 2",
+		"title": "American Truck Simulator",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -76,7 +71,7 @@
 	},
 	{
 		"date": "2024-10-19T20:00",
-		"title": "Euro Truck Simulator 2",
+		"title": "American Truck Simulator",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -96,7 +91,7 @@
 	},
 	{
 		"date": "2024-10-26T20:00",
-		"title": "Euro Truck Simulator 2",
+		"title": "American Truck Simulator",
 		"services": ["twitch", "youtube"]
 	},
 	{

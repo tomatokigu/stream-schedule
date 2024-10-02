@@ -21,7 +21,7 @@
 	},
 	{
 		"date": "2024-10-09T20:00",
-		"title": "Sam & Max: The Devil's Playhouse <small>Episode 2</small>",
+		"title": "Sam & Max: <small>The Devil's Playhouse Episode 2</small>",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -41,7 +41,7 @@
 	},
 	{
 		"date": "2024-10-16T20:00",
-		"title": "Sam & Max: The Devil's Playhouse <small>Episode 3</small>",
+		"title": "Sam & Max: <small>The Devil's Playhouse Episode 3</small>",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -61,7 +61,7 @@
 	},
 	{
 		"date": "2024-10-23T20:00",
-		"title": "Sam & Max: The Devil's Playhouse <small>Episode 4</small>",
+		"title": "Sam & Max: <small>The Devil's Playhouse Episode 4</small>",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -81,7 +81,7 @@
 	},
 	{
 		"date": "2024-10-30T21:00",
-		"title": "Sam & Max: The Devil's Playhouse <small>Episode 5</small>",
+		"title": "Sam & Max: <small>The Devil's Playhouse Episode 5</small>",
 		"services": ["twitch", "youtube"]
 	}
 ]

@@ -1,12 +1,7 @@
 [
 	{
-		"date": "2024-10-16T20:00",
-		"title": "Sam & Max: <small>The Devil's Playhouse Episode 3</small>",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-10-18T20:00",
-		"title": "To be determined",
+		"title": "Heavy Rain",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -26,7 +21,7 @@
 	},
 	{
 		"date": "2024-10-25T20:00",
-		"title": "Alien Isolation",
+		"title": "Heavy Rain",
 		"services": ["twitch", "youtube"]
 	},
 	{

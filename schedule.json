@@ -1,17 +1,12 @@
 [
 	{
-		"date": "2024-10-18T20:00",
-		"title": "Heavy Rain",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-10-19T20:00",
 		"title": "American Truck Simulator",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2024-10-22T20:00",
-		"title": "Racing Practice",
+		"title": "Rally!",
 		"services": ["twitch", "youtube"]
 	},
 	{

@@ -1,10 +1,5 @@
 [
 	{
-		"date": "2024-10-19T20:00",
-		"title": "American Truck Simulator",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-10-22T20:00",
 		"title": "Rally!",
 		"services": ["twitch", "youtube"]
@@ -21,7 +16,7 @@
 	},
 	{
 		"date": "2024-10-26T20:00",
-		"title": "American Truck Simulator",
+		"title": "Euro Truck Simulator 2",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -32,6 +27,96 @@
 	{
 		"date": "2024-10-30T21:00",
 		"title": "Sam & Max: <small>The Devil's Playhouse Episode 5</small>",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-01T20:00",
+		"title": "Beyond: Two Souls",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-02T20:00",
+		"title": "Euro Truck Simulator 2",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-05T21:00",
+		"title": "Racing Practice",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-06T21:00",
+		"title": "The Secret of Monkey Island",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-08T20:00",
+		"title": "Beyond: Two Souls",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-09T20:00",
+		"title": "Euro Truck Simulator 2",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-12T21:00",
+		"title": "Racing Practice",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-13T21:00",
+		"title": "The Secret of Monkey Island",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-15T20:00",
+		"title": "Detroit: Become Human",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-16T20:00",
+		"title": "Euro Truck Simulator 2",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-19T21:00",
+		"title": "Racing Practice",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-20T21:00",
+		"title": "The Secret of Monkey Island 2<br><small>Le Chuck's Revenge</small>",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-22T20:00",
+		"title": "Detroit: Become Human",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-23T20:00",
+		"title": "Euro Truck Simulator 2",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-26T21:00",
+		"title": "Racing Practice",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-27T21:00",
+		"title": "The Secret of Monkey Island 2<br><small>Le Chuck's Revenge</small>",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-29T20:00",
+		"title": "Detroit: Become Human",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2024-11-30T20:00",
+		"title": "Euro Truck Simulator 2",
 		"services": ["twitch", "youtube"]
 	}
 ]

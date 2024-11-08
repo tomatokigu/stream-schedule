@@ -1,17 +1,12 @@
 [
 	{
-		"date": "2024-11-08T21:00",
+		"date": "2024-11-09T21:00",
 		"title": "Beyond: Two Souls",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2024-11-09T21:00",
-		"title": "Euro Truck Simulator 2",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-11-12T21:00",
-		"title": "Racing Practice",
+		"title": "EA Sports WRC",
 		"services": ["twitch", "youtube"]
 	},
 	{

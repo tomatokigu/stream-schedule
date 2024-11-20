@@ -1,12 +1,7 @@
 [
 	{
-		"date": "2024-11-19T21:00",
-		"title": "EA Sports WRC",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-11-20T21:00",
-		"title": "The Secret of Monkey Island 2<br><small>Le Chuck's Revenge</small>",
+		"title": "Monkey Island 2<br><small>Le Chuck's Revenge</small>",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -21,12 +16,12 @@
 	},
 	{
 		"date": "2024-11-26T21:00",
-		"title": "Racing Practice",
+		"title": "EA Sports WRC",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2024-11-27T21:00",
-		"title": "The Secret of Monkey Island 2<br><small>Le Chuck's Revenge</small>",
+		"title": "Monkey Island 2<br><small>Le Chuck's Revenge</small>",
 		"services": ["twitch", "youtube"]
 	},
 	{

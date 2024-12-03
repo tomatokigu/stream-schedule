@@ -1,10 +1,5 @@
 [
 	{
-		"date": "2024-12-01T21:00",
-		"title": "Art stream",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2024-12-03T21:00",
 		"title": "EA Sports WRC",
 		"services": ["twitch", "youtube"]
@@ -16,7 +11,7 @@
 	},
 	{
 		"date": "2024-12-06T21:00",
-		"title": "Story based game",
+		"title": "The Wolf Among Us <small>Episode 1</small>",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -36,7 +31,7 @@
 	},
 	{
 		"date": "2024-12-13T21:00",
-		"title": "Story based game",
+		"title": "The Wolf Among Us <small>Episode 2</small>",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -56,7 +51,7 @@
 	},
 	{
 		"date": "2024-12-20T21:00",
-		"title": "Story based game",
+		"title": "The Wolf Among Us <small>Episode 3</small>",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -76,7 +71,7 @@
 	},
 	{
 		"date": "2024-12-27T21:00",
-		"title": "Story based game",
+		"title": "The Wolf Among Us <small>Episode 4</small>",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -92,6 +87,11 @@
 	{
 		"date": "2025-01-01T21:00",
 		"title": "Escape from Monkey Island",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-01-03T21:00",
+		"title": "The Wolf Among Us <small>Episode 5</small>",
 		"services": ["twitch", "youtube"]
 	}
 ]

@@ -93,5 +93,15 @@
 		"date": "2025-01-03T21:00",
 		"title": "The Wolf Among Us <small>Episode 5</small>",
 		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-03-18T21:00",
+		"title": "Escape from Monkey Island",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-03-28T21:00",
+		"title": "The Wolf Among Us <small>Episode 5</small>",
+		"services": ["twitch", "youtube"]
 	}
 ]

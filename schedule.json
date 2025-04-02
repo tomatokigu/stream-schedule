@@ -1,5 +1,10 @@
 [
 	{
+		"date": "2025-05-03T18:00",
+		"title": "Redebut!  All new stuff!",
+		"services": ["twitch", "youtube"]
+	},
+	{
 		"date": "2024-12-03T21:00",
 		"title": "EA Sports WRC",
 		"services": ["twitch", "youtube"]

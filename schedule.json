@@ -1,27 +1,12 @@
 [
 	{
-		"date": "2025-05-14T20:00",
-		"title": "Minecraft",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-05-16T20:00",
-		"title": "CANCELLED - Minecraft",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-05-17T20:00",
-		"title": "Minecraft",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2025-05-21T20:00",
-		"title": "Escape from Monkey Island",
+		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2025-05-23T20:00",
-		"title": "The Wolf Among Us <small>Episode 3</small>",
+		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{

@@ -16,12 +16,12 @@
 	},
 	{
 		"date": "2025-05-28T20:00",
-		"title": "Escape from Monkey Island",
+		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2025-05-30T20:00",
-		"title": "The Wolf Among Us <small>Episode 4</small>",
+		"title": "Kathy Rain 2: Soothsayer",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -31,12 +31,17 @@
 	},
 	{
 		"date": "2025-06-04T20:00",
-		"title": "Return to Monkey Island",
+		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2025-01-03T21:00",
-		"title": "The Wolf Among Us <small>Episode 5</small>",
+		"date": "2025-06-06T20:00",
+		"title": "Kathy Rain 2: Soothsayer",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-06-07T20:00",
+		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	}
 ]

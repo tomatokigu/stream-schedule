@@ -1,27 +1,12 @@
 [
 	{
-		"date": "2025-07-23T20:00",
-		"title": "Minecraft",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-07-25T20:00",
-		"title": "The Wolf Among Us, episode 4",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-07-26T20:00",
-		"title": "Minecraft",
-		"services": ["twitch", "youtube"]
-	},
-	{
 		"date": "2025-07-30T20:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2025-08-01T20:00",
-		"title": "The Wolf Among Us, episode 5",
+		"title": "The Wolf Among Us, episode 4",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -36,7 +21,7 @@
 	},
 	{
 		"date": "2025-08-08T20:00",
-		"title": "Game TBD",
+		"title": "The Wolf Among Us, episode 5",
 		"services": ["twitch", "youtube"]
 	},
 	{

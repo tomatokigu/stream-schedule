@@ -1,31 +1,31 @@
 [
 	{
-		"date": "2025-07-30T20:00",
+		"date": "2025-08-13T20:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2025-08-01T20:00",
-		"title": "The Wolf Among Us, episode 4",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-08-02T20:00",
-		"title": "Minecraft",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-08-06T20:00",
-		"title": "Minecraft",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-08-08T20:00",
+		"date": "2025-08-15T20:00",
 		"title": "The Wolf Among Us, episode 5",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2025-08-09T20:00",
+		"date": "2025-08-16T20:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-08-20T20:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-08-22T20:00",
+		"title": "TBD",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-08-23T20:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	}

@@ -15,13 +15,18 @@
 		"services": ["twitch", "youtube"]
 	},
 	{
+		"date": "2025-10-05T20:00",
+		"title": "Movie Night: Alien",
+		"services": ["discord"]
+	},
+	{
 		"date": "2025-10-08T20:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2025-10-10T20:00",
-		"title": "Little Hope",
+		"title": "Dark Pictures: Man of Medan",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -30,13 +35,18 @@
 		"services": ["twitch", "youtube"]
 	},
 	{
+		"date": "2025-10-12T20:00",
+		"title": "Movie Night: Aliens",
+		"services": ["discord"]
+	},
+	{
 		"date": "2025-10-15T20:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2025-10-17T20:00",
-		"title": "House of Ashes",
+		"title": "Dark Pictures: Little Hope",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -45,13 +55,18 @@
 		"services": ["twitch", "youtube"]
 	},
 	{
+		"date": "2025-10-19T20:00",
+		"title": "Movie Night: Alien 3",
+		"services": ["discord"]
+	},
+	{
 		"date": "2025-10-22T20:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2025-10-24T20:00",
-		"title": "The Devil in Me",
+		"title": "Dark Pictures: Little Hope",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -60,13 +75,18 @@
 		"services": ["twitch", "youtube"]
 	},
 	{
+		"date": "2025-10-05T20:00",
+		"title": "Movie Night: Alien Ressurection",
+		"services": ["discord"]
+	},
+	{
 		"date": "2025-10-29T20:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
 		"date": "2025-10-31T20:00",
-		"title": "Spoopy Game TBD",
+		"title": "Dark Pictures: House of Ashes",
 		"services": ["twitch", "youtube"]
 	},
 	{

@@ -80,18 +80,98 @@
 		"services": ["discord"]
 	},
 	{
-		"date": "2025-10-29T20:00",
+		"date": "2025-10-29T21:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2025-10-31T20:00",
+		"date": "2025-10-31T21:00",
 		"title": "Dark Pictures: House of Ashes",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2025-11-01T20:00",
+		"date": "2025-11-01T21:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-11-02T21:00",
+		"title": "Movie Night: TBD",
+		"services": ["discord"]
+	},
+	{
+		"date": "2025-11-05T21:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-11-07T21:00",
+		"title": "Dark Pictures: House of Ashes",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-11-08T21:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-11-09T21:00",
+		"title": "Movie Night: TBD",
+		"services": ["discord"]
+	},
+	{
+		"date": "2025-11-12T21:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-11-15T21:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-11-16T21:00",
+		"title": "Movie Night: TBD",
+		"services": ["discord"]
+	},
+	{
+		"date": "2025-11-19T21:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-11-21T21:00",
+		"title": "Dark Pictures: Devil in Me",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-11-22T21:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-11-23T21:00",
+		"title": "Movie Night: TBD",
+		"services": ["discord"]
+	},
+	{
+		"date": "2025-11-26T21:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-11-28T21:00",
+		"title": "Dark Pictures: Devil in Me",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-11-29T21:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2025-11-30T21:00",
+		"title": "Movie Night: TBD",
+		"services": ["discord"]
 	}
 ]

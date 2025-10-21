@@ -1,67 +1,7 @@
 [
 	{
-		"date": "2025-10-01T20:00",
-		"title": "Minecraft",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-10-03T20:00",
-		"title": "Dark Pictures: Man of Medan",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-10-04T20:00",
-		"title": "Minecraft",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-10-05T20:00",
-		"title": "Movie Night: Alien (1979)",
-		"services": ["discord"]
-	},
-	{
-		"date": "2025-10-08T20:00",
-		"title": "Minecraft",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-10-10T20:00",
-		"title": "Dark Pictures: Man of Medan",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-10-11T20:00",
-		"title": "Parcel Simulator",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-10-12T20:00",
-		"title": "Movie Night: Aliens (1986)",
-		"services": ["discord"]
-	},
-	{
-		"date": "2025-10-15T20:00",
-		"title": "Parcel Simulator",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-10-17T20:00",
-		"title": "Dark Pictures: Little Hope",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-10-18T20:00",
-		"title": "Minecraft",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-10-19T20:00",
-		"title": "Movie Night: Alien 3 (1992)",
-		"services": ["discord"]
-	},
-	{
 		"date": "2025-10-22T20:00",
-		"title": "Minecraft",
+		"title": "Parcel Simulator",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -76,7 +16,7 @@
 	},
 	{
 		"date": "2025-10-26T20:00",
-		"title": "Movie Night: Alien Resurrection (1997)",
+		"title": "Movie: Alien Resurrection (1997)",
 		"services": ["discord"]
 	},
 	{

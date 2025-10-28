@@ -1,25 +1,5 @@
 [
 	{
-		"date": "2025-10-22T20:00",
-		"title": "Parcel Simulator",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-10-24T20:00",
-		"title": "Dark Pictures: Little Hope",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-10-25T20:00",
-		"title": "Minecraft",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-10-26T21:00",
-		"title": "Movie: Alien Resurrection (1997)",
-		"services": ["discord"]
-	},
-	{
 		"date": "2025-10-29T21:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
@@ -36,7 +16,7 @@
 	},
 	{
 		"date": "2025-11-02T21:00",
-		"title": "Movie Night: TBD",
+		"title": "Movie Night: Ringu (1998)",
 		"services": ["discord"]
 	},
 	{

@@ -1,20 +1,5 @@
 [
 	{
-		"date": "2025-11-12T21:00",
-		"title": "STREAM CANCELLED",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-11-15T21:00",
-		"title": "Dark Pictures: House of Ashes",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-11-16T21:00",
-		"title": "Movie: The Man From Earth (2007)",
-		"services": ["discord"]
-	},
-	{
 		"date": "2025-11-19T21:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
@@ -31,7 +16,7 @@
 	},
 	{
 		"date": "2025-11-23T21:00",
-		"title": "Movie Night: TBD",
+		"title": "Movie Night: Ame Ageru (2000)",
 		"services": ["discord"]
 	},
 	{

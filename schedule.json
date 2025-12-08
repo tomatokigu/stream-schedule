@@ -1,27 +1,7 @@
 [
 	{
-		"date": "2025-12-03T21:00",
-		"title": "Dark Pictures: Devil in Me",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-12-05T21:00",
-		"title": "Gran Turismo 7",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-12-06T21:00",
-		"title": "Euro Truck Simulator 2",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-12-07T21:00",
-		"title": "Movie: Ying xiong (2002)",
-		"services": ["discord"]
-	},
-	{
 		"date": "2025-12-10T21:00",
-		"title": "Minecraft",
+		"title": "Dark Pictures: Devil in Me",
 		"services": ["twitch", "youtube"]
 	},
 	{

@@ -1,23 +1,8 @@
 [
 	{
-		"date": "2025-12-10T21:00",
-		"title": "STREAM CANCELLED",
+		"date": "2025-12-16T21:00",
+		"title": "BONUS STREAM",
 		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-12-12T21:00",
-		"title": "Euro Truck Simulator 2",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-12-13T21:00",
-		"title": "Euro Truck Simulator 2",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-12-14T21:00",
-		"title": "Movie: Huo Yuan Jia (2006)",
-		"services": ["discord"]
 	},
 	{
 		"date": "2025-12-17T21:00",
@@ -36,7 +21,7 @@
 	},
 	{
 		"date": "2025-12-21T21:00",
-		"title": "Movie: TBD",
+		"title": "Movie: The Net (1995)",
 		"services": ["discord"]
 	},
 	{
@@ -61,7 +46,7 @@
 	},
 	{
 		"date": "2025-12-28T21:00",
-		"title": "Movie: TBD",
+		"title": "Movie: Tokyo Godfathers (2003)",
 		"services": ["discord"]
 	},
 	{

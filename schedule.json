@@ -1,30 +1,5 @@
 [
 	{
-		"date": "2025-12-16T21:00",
-		"title": "BONUS STREAM! (trucking)",
-		"services": ["twitch"]
-	},
-	{
-		"date": "2025-12-17T21:00",
-		"title": "STREAM CANCELLED",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-12-19T21:00",
-		"title": "Dark Pictures: Devil in Me",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-12-20T21:00",
-		"title": "Euro Truck Simulator 2",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2025-12-21T21:00",
-		"title": "Movie: The Net (1995)",
-		"services": ["discord"]
-	},
-	{
 		"date": "2025-12-24T21:00",
 		"title": "Euro Truck Simulator 2",
 		"services": ["twitch", "youtube"]
@@ -61,7 +36,7 @@
 	},
 	{
 		"date": "2026-01-03T21:00",
-		"title": "Euro Truck Simulator 2",
+		"title": "American Truck Simulator",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -76,7 +51,7 @@
 	},
 	{
 		"date": "2026-01-07T21:00",
-		"title": "Euro Truck Simulator 2",
+		"title": "American Truck Simulator",
 		"services": ["twitch", "youtube"]
 	},
 	{
@@ -86,7 +61,7 @@
 	},
 	{
 		"date": "2026-01-10T21:00",
-		"title": "Euro Truck Simulator 2",
+		"title": "American Truck Simulator",
 		"services": ["twitch", "youtube"]
 	},
 	{

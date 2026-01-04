@@ -1,25 +1,5 @@
 [
 	{
-		"date": "2025-12-31T21:00",
-		"title": "Community Jackbox",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2026-01-01T21:00",
-		"title": "American Truck Simulator",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2026-01-03T21:00",
-		"title": "American Truck Simulator",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2026-01-04T21:00",
-		"title": "Movie: The Thing (1982)",
-		"services": ["discord"]
-	},
-	{
 		"date": "2026-01-06T21:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
@@ -41,7 +21,57 @@
 	},
 	{
 		"date": "2026-01-11T21:00",
-		"title": "Movie: TBD",
+		"title": "Movie: The Thing (2011)",
+		"services": ["discord"]
+	},
+	{
+		"date": "2026-01-13T21:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2026-01-14T21:00",
+		"title": "American Truck Simulator",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2026-01-16T21:00",
+		"title": "BeamNG.Drive",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2026-01-17T21:00",
+		"title": "American Truck Simulator",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2026-01-18T21:00",
+		"title": "Movie: Tango & Cash (1989)",
+		"services": ["discord"]
+	},
+	{
+		"date": "2026-01-20T21:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2026-01-21T21:00",
+		"title": "American Truck Simulator",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2026-01-23T21:00",
+		"title": "BeamNG.Drive",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2026-01-24T21:00",
+		"title": "American Truck Simulator",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2026-01-25T21:00",
+		"title": "Movie: Red Heat (1988)",
 		"services": ["discord"]
 	}
 ]

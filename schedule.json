@@ -1,5 +1,10 @@
 [
 	{
+		"date": "2026-01-26T21:00",
+		"title": "Test event",
+		"services": ["discord"]
+	},
+	{
 		"date": "2026-01-27T21:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]

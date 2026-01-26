@@ -1,56 +1,56 @@
 [
 	{
-		"date": "2025-01-25T21:00",
+		"date": "2026-01-25T21:00",
 		"title": "Test event",
 		"services": ["discord"]
 	},
 	{
-		"date": "2025-01-27T21:00",
+		"date": "2026-01-27T21:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2025-01-28T21:00",
+		"date": "2026-01-28T21:00",
 		"title": "Euro Truck Simulator 2",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2025-01-30T21:00",
+		"date": "2026-01-30T21:00",
 		"title": "BeamNG.Drive",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2025-01-31T21:00",
+		"date": "2026-01-31T21:00",
 		"title": "Euro Truck Simulator 2",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2025-02-01T21:00",
+		"date": "2026-02-01T21:00",
 		"title": "Movie: Shaolin Soccer (2001)",
 		"services": ["discord"]
 	},
 	{
-		"date": "2025-02-03T21:00",
+		"date": "2026-02-03T21:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2025-02-04T21:00",
+		"date": "2026-02-04T21:00",
 		"title": "Euro Truck Simulator 2",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2025-02-06T21:00",
+		"date": "2026-02-06T21:00",
 		"title": "BeamNG.Drive",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2025-02-07T21:00",
+		"date": "2026-02-07T21:00",
 		"title": "Euro Truck Simulator 2",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2025-02-08T21:00",
+		"date": "2026-02-08T21:00",
 		"title": "Movie: Ghidorah (1964)",
 		"services": ["discord"]
 	}

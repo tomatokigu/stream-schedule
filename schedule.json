@@ -1,32 +1,32 @@
 [
 	{
-		"date": "2026-02-17T21:00",
+		"date": "2026-02-24T21:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2026-02-18T21:00",
-		"title": "American Truck Simulator",
-		"services": ["twitch", "youtube"]
-	},
-	{
-		"date": "2026-02-20T21:00",
+		"date": "2026-02-25T21:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2026-02-21T21:00",
-		"title": "American Truck Simulator",
+		"date": "2026-02-27T21:00",
+		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2026-02-22T21:00",
-		"title": "Movie: Ebirah, Horror of the Deep (1966) + Moontrap (1989)",
+		"date": "2026-02-28T21:00",
+		"title": "Minecraft",
+		"services": ["twitch", "youtube"]
+	},
+	{
+		"date": "2026-02-29T21:00",
+		"title": "Movie: Son of Godzilla (1967) + Slap Shot (1977)",
 		"services": ["discord"]
 	},
 	{
 		"date": "2026-02-22T21:00",
-		"title": "Movie: Ebirah (1966)",
+		"title": "Movie: Son of Godzilla (1967)",
 		"services": ["discord"]
 	},
 	{

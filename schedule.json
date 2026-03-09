@@ -1,32 +1,32 @@
 [
 	{
-		"date": "2026-03-03T21:00",
+		"date": "2026-03-10T21:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2026-03-04T21:00",
+		"date": "2026-03-11T21:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2026-03-06T21:00",
+		"date": "2026-03-13T21:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2026-03-07T21:00",
+		"date": "2026-03-14T21:00",
 		"title": "Minecraft",
 		"services": ["twitch", "youtube"]
 	},
 	{
-		"date": "2026-03-08T21:00",
-		"title": "Movie: Destroy All Monsters (1968) + Jumanji (1995)",
+		"date": "2026-03-15T21:00",
+		"title": "Movie: All Monsters Attack (1969) + Real Steel (2011)",
 		"services": ["discord"]
 	},
 	{
-		"date": "2026-03-08T21:00",
-		"title": "Movie: Destroy All Monsters (1968)",
+		"date": "2026-03-15T21:00",
+		"title": "Movie: All Monsters Attack (1969)",
 		"services": ["discord"]
 	},
 	{
